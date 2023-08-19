@@ -1,5 +1,5 @@
 import React from 'react'
-import { colors } from '@ignite-ui/tokens'
+import { colors } from '@verossim/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

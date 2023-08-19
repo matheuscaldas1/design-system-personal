@@ -1,6 +1,6 @@
 import React from 'react'
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text } from '@ignite-ui/react'
+import { Box, Text } from '@verossim/react'
 
 const meta: Meta<typeof Box> = {
   title: 'Surfaces/Box',

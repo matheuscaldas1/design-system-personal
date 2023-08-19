@@ -1,6 +1,6 @@
 import React from 'react'
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextInput } from '@ignite-ui/react'
+import { Box, Text, TextInput } from '@verossim/react'
 
 const meta: Meta<typeof TextInput> = {
   title: 'Form/TextInput',

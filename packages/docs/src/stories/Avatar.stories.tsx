@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Avatar } from '@ignite-ui/react'
+import { Avatar } from '@verossim/react'
 
 const meta: Meta<typeof Avatar> = {
   title: 'Data display/Avatar',

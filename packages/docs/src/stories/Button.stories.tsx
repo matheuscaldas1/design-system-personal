@@ -1,6 +1,6 @@
 import React, { ComponentProps, ElementType } from 'react'
 import type { StoryObj, Meta } from '@storybook/react'
-import { Button } from '@ignite-ui/react'
+import { Button } from '@verossim/react'
 import { ArrowRight } from 'phosphor-react'
 
 interface ButtonProps extends ComponentProps<typeof Button> {

@@ -1,6 +1,6 @@
 import { ComponentProps, ElementType } from 'react'
 import type { StoryObj, Meta } from '@storybook/react'
-import { Text } from '@ignite-ui/react'
+import { Text } from '@verossim/react'
 
 interface TextProps extends ComponentProps<typeof Text> {
   as?: ElementType

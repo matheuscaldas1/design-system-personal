@@ -1,6 +1,6 @@
 import React from 'react'
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, Checkbox } from '@ignite-ui/react'
+import { Box, Text, Checkbox } from '@verossim/react'
 
 const meta: Meta<typeof Checkbox> = {
   title: 'Form/Checkbox',

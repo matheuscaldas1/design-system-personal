@@ -1,6 +1,6 @@
 import React from 'react'
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, MultiStep } from '@ignite-ui/react'
+import { Box, MultiStep } from '@verossim/react'
 
 const meta: Meta<typeof MultiStep> = {
   title: 'Form/Multi Step',

@@ -1,6 +1,6 @@
 import { ComponentProps, ElementType } from 'react'
 import type { StoryObj, Meta } from '@storybook/react'
-import { Heading } from '@ignite-ui/react'
+import { Heading } from '@verossim/react'
 
 interface HeadingProps extends ComponentProps<typeof Heading> {
   as?: ElementType
