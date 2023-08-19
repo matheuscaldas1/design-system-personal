@@ -1,0 +1,37 @@
+{
+  "name": "@ignite-ui/docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "storybook dev -p 6006",
+    "build": "storybook build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@storybook/addon-essentials": "^7.2.3",
+    "@storybook/addon-interactions": "^7.2.3",
+    "@storybook/addon-links": "^7.2.3",
+    "@storybook/addon-onboarding": "^1.0.8",
+    "@storybook/blocks": "^7.2.3",
+    "@storybook/react": "^7.2.3",
+    "@storybook/react-vite": "^7.2.3",
+    "@storybook/testing-library": "^0.2.0",
+    "@vitejs/plugin-react": "^4.0.4",
+    "prop-types": "^15.8.1",
+    "storybook": "^7.2.3",
+    "vite": "^4.4.9"
+  },
+  "dependencies": {
+    "@ignite-ui/eslint-config": "*",
+    "@ignite-ui/react": "*",
+    "@ignite-ui/tokens": "*",
+    "@storybook/addon-a11y": "^7.3.2",
+    "polished": "^4.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

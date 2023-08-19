@@ -1,0 +1,10 @@
+{
+  "name": "@ignite-ui/eslint-config",
+  "license": "MIT",
+  "private": true,
+  "main": "./index.js",
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.1.0",
+    "eslint": "^8.47.0"
+  }
+}
